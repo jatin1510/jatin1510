@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects will be available at [Here](http://jatin1510.epizy.com/)
 
-- 🤝 I’m looking forward to help with **Data Structure and Algorithms**
+- 🤝 I’m looking forward to help with **DSA Queries**
 
 - 📝 I regularly write articles on [Leetcode Solutions](https://leetcode.com/jatin1510/)
 
