@@ -19,7 +19,7 @@
 
 ---
 <h3 align="left">GitHub Stats:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin1510&theme=onedark&row=1&column=6" alt="jatin1510" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin1510&row=1&column=6" alt="jatin1510" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
