@@ -1,13 +1,8 @@
-[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://jatin1510.epizy.com)
 <h1 align="center">Hi 👋, I'm Jatin Ranpariya</h1>
 <h3 align="center">A passionate frontend & backend developer and DSA Enthusiastic</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin1510&label=Profile%20views&color=0e75b6&style=flat" alt="jatin1510" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin1510" alt="jatin1510" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/jatin_1510" target="blank"><img src="https://img.shields.io/twitter/follow/jatin_1510?logo=twitter&style=for-the-badge" alt="jatin_1510" /></a> </p>
 
 - 🔭 I’m currently working on [Placement Cell Automation System](https://github.com/jatin1510/Placement-Cell)
@@ -21,6 +16,10 @@
 - 💬 Ask me about **DSA, CP, Development**
 
 - 📫 How to reach me **jatinranpariya1510@gmail.com**
+
+---
+<h3 align="left">Github Stats:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin1510" alt="jatin1510" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
