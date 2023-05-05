@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **DSA, CP, Development**
 
-- 📫 How to reach me **jatinranpariya1510@gmail.com**
+- 📫 How to reach me 👉 [mail me](jatinranpariya1510@gmail.com)
 
 ---
 <h3 align="left">Github Stats:</h3>
