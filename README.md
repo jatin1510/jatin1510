@@ -18,7 +18,7 @@
 - 📫 How to reach me 👉 <a href="mailto:jatinranpariya1510@gmail.com?subject = Feedback&body = Message"> mail me </a>
 
 ---
-<h3 align="left">Github Stats:</h3>
+<h3 align="left">GitHub Stats:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin1510" alt="jatin1510" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
