@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jatin Ranpariya</h1>
-<h3 align="center">A passionate frontend & backend developer and DSA Enthusiastic</h3>
+<h3 align="center">A Passionate Frontend & Backend Developer and DSA Enthusiastic</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin1510&label=Profile%20views&color=0e75b6&style=flat" alt="jatin1510" /> </p>
