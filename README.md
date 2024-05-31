@@ -3,19 +3,17 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin1510&label=Profile%20views&color=0e75b6&style=flat" alt="jatin1510" /> </p>
-<p align="left"> <a href="https://twitter.com/jatin_1510" target="blank"><img src="https://img.shields.io/twitter/follow/jatin_1510?logo=twitter&style=for-the-badge" alt="jatin_1510" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/jatin-ranpariya/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jatin_1510" /></a> </p>
 
-- 🔭 I’m currently working on [Placement Cell Automation System](https://github.com/jatin1510/Placement-Cell)
+- 👨‍💻 All of my projects will be available at [Here](https://github.com/jatin1510?tab=repositories)
 
-- 👨‍💻 All of my projects will be available at [Here](http://jatin1510.epizy.com/)
-
-- 🤝 I’m looking forward to help with **DSA Queries**
+- 🤝 I’m looking forward to help with **DSA and Development related Queries**
 
 - 📝 I regularly write articles on [Leetcode Solutions](https://leetcode.com/jatin1510/)
 
 - 💬 Ask me about **DSA, CP, Development**
 
-- 📫 How to reach me 👉 <a href="mailto:jatinranpariya1510@gmail.com?subject = Feedback&body = Message"> mail me </a>
+- 📫 How to reach me 👉 <a href="mailto:jatinranpariya1510@gmail.com?subject = Feedback&body = Message"> E-mail </a>
 
 ---
 <h3 align="left">GitHub Stats:</h3>
